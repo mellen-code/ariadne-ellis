@@ -1,12 +1,12 @@
 # Website for an Actress & Model: <a href="https://ariadne-actress-model.netlify.app/" target="_blank">Visit Here</a>
 <a href="https://ariadne-actress-model.netlify.app/" target="_blank">
-<img src="https://media.giphy.com/media/qSBZ0vMEgivr8G24Ny/giphy.gif" width="100%" alt="link to website"/>
+<img src="https://media.giphy.com/media/qSBZ0vMEgivr8G24Ny/giphy.gif" width="80%" alt="link to website"/>
 </a>
 
 Elegant and easy–to–view website showcasing a professional actress and model.
 
 
-## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)!
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 
 ## Optimizations
