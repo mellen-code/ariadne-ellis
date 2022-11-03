@@ -32,7 +32,7 @@ Scaling original design to better showcase the actual content. I also enjoyed cr
 <a target="_blank" href="https://artgenerator-themetmuseum.netlify.app/">Metropolitan Museum of Art Generator</a>
       <br />
         <a target="_blank" href="https://artgenerator-themetmuseum.netlify.app/">
-          <img src="https://media.giphy.com/media/qSBZ0vMEgivr8G24Ny/giphy.gif" width="100%" alt="link to art generator site"/>
+          <img src="https://media.giphy.com/media/34Q93NLtrowY8XXazg/giphy.gif" width="100%" alt="link to art generator site"/>
         </a>
     </td>
     
