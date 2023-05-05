@@ -25,7 +25,7 @@ Scaling original design to better showcase the actual content. I also enjoyed cr
 <a target="_blank" href="https://mariesmith.me/">mariesmith.me</a>
         <br />
       <a target="_blank" href="https://mariesmith.me/">
-            <img src="https://media.giphy.com/media/BXLT2FUtBYmKDGl0nd/giphy.gif" width="100%"  alt="link to my portfolio site"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RkY2ZjYWM5ZTc4NDAwMzQwOTJhNTQ4ZDU5MzcyMjgyYjE3ODNiMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eukp4n5vbKaQ1V2hNx/giphy.gif" width="100%"  alt="link to my portfolio site"/>
         </a>
     </td>
     <td width="50%" valign="top">
